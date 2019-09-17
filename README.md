@@ -21,3 +21,4 @@ entitlement process -  To enforce time-dependent support steps
 * [Entitlement Management Help](https://help.salesforce.com/articleView?id=entitlements_help.htm&type=5)
 * [Entitlement Management Trailhead](https://trailhead.salesforce.com/content/learn/modules/entitlements/entitlements_steps)
 * [Service Cloud Guide on Trailblazer Community](https://help.salesforce.com/articleView?id=entitlements_milestones_parent.htm&type=5)
+* https://salesforce.stackexchange.com/questions/66629/compile-error-variable-does-not-exist-userorgroupid-any-help-to-solve-this-ca
