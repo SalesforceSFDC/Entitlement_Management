@@ -22,3 +22,4 @@ entitlement process -  To enforce time-dependent support steps
 * [Entitlement Management Trailhead](https://trailhead.salesforce.com/content/learn/modules/entitlements/entitlements_steps)
 * [Service Cloud Guide on Trailblazer Community](https://help.salesforce.com/articleView?id=entitlements_milestones_parent.htm&type=5)
 * https://salesforce.stackexchange.com/questions/66629/compile-error-variable-does-not-exist-userorgroupid-any-help-to-solve-this-ca
+* [Error while : IN operator must be used with an iterable expression](https://salesforce.stackexchange.com/questions/96441/error-while-in-operator-must-be-used-with-an-iterable-expression/96444)
